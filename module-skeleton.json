@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-rich-text-editor-react-native",
+  "capabilityKey": "liberusoftware/module-cms-rich-text-editor",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-cms-rich-text-editor-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/cms/nextjs/rich-text-editor.md",
+  "presentationPlan": "projects/cms/react-native/rich-text-editor.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
